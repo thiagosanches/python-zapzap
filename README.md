@@ -9,6 +9,12 @@ It requires that Firefox is opened with the Whatsapp Web tab already opened and 
 
 # Data
 You can send a single object or an array of objects:
+Use the `sendMessage` endpoint
+```
+{"body": "Hello World 1", "name": "Test"}
+```
+
+Use the `sendMessages` endpoint
 ```
 [
     {"body": "Hello World 1", "name": "Test"},
