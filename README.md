@@ -1,4 +1,4 @@
-# python-whatzapp
+# python-zapzap
 
 This is a small service that integrates with sikulixide in order to send message to Whatsapp.
 
