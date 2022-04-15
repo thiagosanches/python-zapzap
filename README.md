@@ -1,4 +1,5 @@
-# python-zapzap
+# python-zapzap [deprecated]
+PLEASE SEE: https://github.com/thiagosanches/proxy-node-docker-whatzapp
 
 This is a small service that integrates with sikulixide in order to send message to Whatsapp.
 
